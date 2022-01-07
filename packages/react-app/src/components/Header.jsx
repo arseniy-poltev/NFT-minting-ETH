@@ -5,10 +5,10 @@ import React from "react";
 
 export default function Header() {
   return (
-    <a href="https://nftschool.dev" target="_blank" rel="noopener noreferrer">
+    <a href="#" target="_blank" rel="noopener noreferrer">
       <PageHeader
-        title="🎟 NFT School e2e example"
-        subTitle="join us at nftschool.dev"
+        title="🎟 NFT Minting Website (ETH)"
+        subTitle=""
         style={{ cursor: "pointer" }}
       />
     </a>
